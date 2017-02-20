@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/ch00-grid-printer-elizafischer2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ch01-loops-and-lists-elizafischer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ch03-encrypt-decrypt-elizafischer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch15-searches-elizafischer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ch2-decode-me-elizafischer" vcs="Git" />
   </component>
 </project>
